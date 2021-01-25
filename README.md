@@ -33,3 +33,7 @@ google
 
 personal life
 
+|             | links                                               |
+| ----------- | -----------                                         |
+| github      | https://github.com/qusaiqishta                      |
+| lab02b      | https://qusaiqishta.github.io/reading-notes/        |
