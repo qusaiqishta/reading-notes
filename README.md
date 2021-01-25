@@ -26,3 +26,8 @@ Writer info:
 3-Specialization: industrial engineer 
 
 4-github account [link](https://github.com/qusaiqishta)
+
+references :
+google 
+personal life
+
