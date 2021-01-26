@@ -12,4 +12,4 @@ personal life
 | ----------- | -----------                                         |
 | github      | https://github.com/qusaiqishta                      |
 | lab02b      | https://qusaiqishta.github.io/reading-notes/        |
-|lab031       | lab03a.md
+|lab031       | https://qusaiqishta.github.io/reading-notes/lab03a
