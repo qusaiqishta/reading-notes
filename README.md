@@ -10,7 +10,7 @@ personal life
 
 |             | links                                               |
 | ----------- | -----------                                         |
-| github      | https://github.com/qusaiqishta                      |
-| lab02b      | https://qusaiqishta.github.io/reading-notes/        |
-|lab031       | https://qusaiqishta.github.io/reading-notes/lab03a  |
-|lab04a .read |https://qusaiqishta.github.io/reading-notes/read04a  |
+| github      |[github](https://github.com/qusaiqishta)             |
+| lab02b      | [lab02b](lab-02a.md)                                |
+|lab03a       | [lab03a](lab03a.md)                                 |
+|lab04a .read |[read04a](read04a.md)                                |
