@@ -14,7 +14,7 @@ Validating forms (checking whether they have been filled in correctly) is import
 and reveal the results to the user
 
 
-# ARITHMETI  OPERATORS in JS
+# ARITHMETIC  OPERATORS in JS
 JavaScript contains the following mathematical operators, which you can use with numbers.
 - mathmatical operators :
 Several arithmetic operations can be performed in oneexpression, but it is important to understand how the result will be calculated. Multiplication and division are performed before addition or subtraction. This can affect the number that you expect to see. To illustratethis effect, look at the following examples. 
