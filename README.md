@@ -11,3 +11,4 @@ i am an idustrial engineer, in my way to be a software development
 |lab03a       | [lab03a](lab03a.md)                                 |
 |lab04a .read |[read04a](read04a.md)                                |
 | lab05       |[labo5.read](read05.md)
+| lab06       |[lab06.read](https://qusaiqishta.github.io/reading-notes/lab06)
