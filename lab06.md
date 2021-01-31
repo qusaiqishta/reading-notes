@@ -46,16 +46,17 @@ by altering just one file
 (rather than each individual
 page).
 - **second:Using Internal CSS**
+
 You can also include CSS rules
 within an HTML page by placing
-them inside a <style> element,
+them inside a style element,
 which usually sits inside the
-<head> element of the page.
+head element of the page.
 
 # What is a Function and why we use it inside a HTML code?
-**Functions let you group a series of statements together to perform a
+Functions let you group a series of statements together to perform a
 specific task. If different parts of a script repeat the same task, you can
-reuse the function (rather than repeating the same set of statements)**
+reuse the function (rather than repeating the same set of statements)
 
 # How functions work?
 1-The program comes to a line of code containing a "function call".
