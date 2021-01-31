@@ -1,12 +1,8 @@
 # reading-notes
 my name is qusai 
 i am 24 years old 
-i am an idustrial engineer, in my way to be a software development 
-references :
-
-google 
+i am an idustrial engineer, in my way to be a software development
  
-personal life
 
 |             | links                                               |
 | ----------- | -----------                                         |
