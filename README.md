@@ -24,4 +24,3 @@ i am an idustrial engineer, in my way to be a software developer
 | lab.Number    | link          |
 | ------------- | ------------- |
 | lab01         |  [lab01-102](lab01-201.md)  |
-| Content Cell  | Content Cell  |
