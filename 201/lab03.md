@@ -12,6 +12,7 @@ term) , the second one is (dd) and is used to contain the definition.
    &nbsp;
    
    # Using boxes
+   
    as a websites maker , sometimes you have to put some boxes around some paragraphes using CSS in order to make them easier to read and more attractive. CSS provide a huge number of features that you can use to control and shape the boxes . Here are a few examples of what CSS can allow you to do with boxes:
    - **change the box dimension**: you can simply change the hight and width of the box by using *widhth* and *hight* properties and then specify the value than you want either in pixel or make it as a percentage of the window size.
 
