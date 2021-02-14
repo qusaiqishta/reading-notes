@@ -1,4 +1,5 @@
  # Objects 
+ 
 Object is like a technique allow you to group number of variables and functions together in order to use them later to perform a specific task. A Variable inside an object has different name which is property and a function also has a name of method inside an object. The following example which represent the way that you can write an object using literal method.
 
 ```
