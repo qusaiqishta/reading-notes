@@ -16,7 +16,7 @@ A table is something used to arrange data in rows and columns.Look at the follow
  <tr>
  <td>60</td>
  <td>90</td>
- <td>90</td> 
+ <td>90</td> gi
  </tr>
 </table>
 ```
