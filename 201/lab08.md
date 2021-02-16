@@ -8,7 +8,7 @@ or you can make some parts of the page content float in which the remaining cont
  &nbsp;
 
 # screen size
-There is no doubt that the individual users differs from each other in terms of the devices they use to open your website , therfore the size of the page content that you already specified may be changed according to the size of window that the user used.
+There is no doubt that the individual users differs from each other in terms of the devices they use to open your website , therfore the size of the page content thagt you already specified may be changed according to the size of window that the user used.
 There are mainly two methods to solve this problem:
 
 1-**Fixed width layout**: in which
