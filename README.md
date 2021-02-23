@@ -36,5 +36,5 @@ i am an idustrial engineer, in my way to be a software developer
 | lab011         |  [lab11-102](201/lab11.md)  |
 | lab012        |  [lab012-102](201/lab12.md)  |
 | lab013         |  [lab013-102](201/lab13.md)  |
-| lab014         |  [lab014-102](201/lab14.md)  |
-| lab015         |  [lab015-102](201/lab15.md)  |
+| lab014a         |  [lab014-102](201/lab14a.md)  |
+| lab014b         |  [lab015-102](201/lab14b.md)  |
