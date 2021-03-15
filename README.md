@@ -1,6 +1,8 @@
 # reading-notes 102
 my name is qusai 
 i am an idustrial engineer, in my way to be a software developer
+
+
 This is a web page with a summary of everything I read.  
 
 |             | links                                               |
