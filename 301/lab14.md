@@ -38,3 +38,14 @@
 - target = "_blank" (new tab) / "_self" (current tab)
 
 - enctype = "text/plain" (text input form) "multipart/form-data" (forms containing files)
+
+
+# Get And Post Methods
+
+The GET method is used by the browser to order a resource from the server. The browser sends an empty body in this situation. When a form is transmitted using this process, the data sent to the server is appended to the URL since the body is null.
+
+
+The GET method is used by the browser to order a resource from the server: "Hey server, I'd like to get this resource." The browser sends an empty body in this situation. When a form is transmitted using this process, the data sent to the server is appended to the URL since the body is null.
+
+
+![img](https://4.bp.blogspot.com/-CaBXhGu-DZI/XB8x0MzPhVI/AAAAAAAACf0/BKGaGFZ-8rovSKi6qOvq2VVxatn85M2vACLcBGAs/s1600/Screenshot%2B%2528238%2529.png)
