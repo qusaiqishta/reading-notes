@@ -66,4 +66,4 @@ This is a web page with a summary of everything I read.
 | lab012        |  [lab012-103](301/lab12.md)  |
 | lab013         |  [lab013-103](301/lab13.md)  |
 | lab014a         |  [lab014-103](301/lab14a.md)  |
-| lab014b         |  [lab015-103](301/lab14b.md)  |
+| lab015         |  [lab15-103](301/lab15.md)  |
