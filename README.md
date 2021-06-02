@@ -1,9 +1,14 @@
-# reading-notes 102
-my name is qusai 
-i am an idustrial engineer, in my way to be a software developer
+## my name is Qusai i am an idustrial engineer, in my way to be a software developer  
 
 
-This is a web page with a summary of everything I read.  
+## This is a web page with a summary of everything I read.  
+
+
+
+
+# reading-notes 102(Intro to Software Development)
+
+
 
 |             | links                                               |
 | ----------- | -----------                                         |
@@ -21,7 +26,7 @@ This is a web page with a summary of everything I read.
 
 
 
-# Reading-notes 201
+# Reading-notes 201 (Foundations of Software Development)
 | lab.Number    | link          |
 | ------------- | ------------- |
 | lab01         |  [lab01-102](201/lab01-201.md)  |
@@ -48,7 +53,7 @@ This is a web page with a summary of everything I read.
 &nbsp;
 
 
-# Reading-notes 301
+# Reading-notes 301 ( Intermediate Software Development)
 
 | lab.Number    | link          |
 | ------------- | ------------- |
@@ -67,3 +72,29 @@ This is a web page with a summary of everything I read.
 | lab013         |  [lab013-103](301/lab13.md)  |
 | lab014a         |  [lab014-103](301/lab14a.md)  |
 | lab015         |  [lab15-103](301/lab15.md)  |
+
+
+
+
+&nbsp;
+
+
+
+# Reading-notes 401 (Advanced Software Development)
+| lab.Number    | link          |
+| ------------- | ------------- |
+| lab01         |  [lab01-401](401/lab01.md)  |
+| lab02        |  [lab02-401](401/lab02.md)  |
+| lab03         |  [lab03-401](401/lab03.md)  |
+| lab04         |  [lab04-401](401/lab04.md)  |
+| lab05         |  [lab05-401](401/lab05.md)  |
+| lab06         |  [lab06-401](401/lab06.md)  |
+| lab07         |  [lab07-401](401/lab07.md)  |
+| lab08         |  [lab08-401](401/lab08.md)  |
+| lab09         |  [lab09-401](401/lab09.md)  |
+| lab10         |  [lab10-401](401/lab10.md)  |
+| lab011         |  [lab11-401](401/lab11.md)  |
+| lab012        |  [lab012-401](401/lab12.md)  |
+| lab013         |  [lab013-401](401/lab13.md)  |
+| lab014a         |  [lab014-401](401/lab14a.md)  |
+| lab014b         |  [lab015-401](401/lab14b.md)  |
