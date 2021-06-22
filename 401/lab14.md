@@ -53,4 +53,4 @@ plt.legend(loc='upper left', frameon=False)
 ![](https://github.com/rougier/matplotlib-tutorial/raw/master/figures/exercice_8.png)
 
 
-### You can custamized your graph in an astounding way using matplot , check this [tutorial](https://github.com/rougier/matplotlib-tutorial)
+### You can custamized your graph in an astounding way using matplot , check this [tutorial](https://github.com/rougier/matplotlib-tutorial )
