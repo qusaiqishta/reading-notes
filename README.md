@@ -98,3 +98,8 @@
 | lab013         |  [lab013-401](401/lab13.md)  |
 | lab014a         |  [lab014-401](401/lab14a.md)  |
 | lab014b         |  [lab015-401](401/lab14b.md)  |
+|lab16           |   [lab16-401](401/lab16.md)   |
+|lab17            |   [lab16-401](401/lab17.md)   |
+|lab18            |   [lab16-401](401/lab18.md)   |
+|lab19            |   [lab16-401](401/lab19.md)   |
+|lab20           |   [lab16-401](401/lab20.md)   |
