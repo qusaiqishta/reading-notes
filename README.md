@@ -110,3 +110,6 @@
 |lab25            |  [lab25-401](401/lab25.md)    |
 |lab26            |  [lab26-401](401/lab26.md)    |
 |lab27            |  [lab27-401](401/lab27.md)    |
+|lab28             | [lab28-401](401/lab28.md)    |
+|lab29             | [lab29-401](401/lab29.md)    |
+|lab30             | [lab30-401](401/lab30.md)    |
