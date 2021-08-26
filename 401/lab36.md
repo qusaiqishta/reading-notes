@@ -9,6 +9,6 @@ It is worth noting that the criterion requested by the owner of the site, on whi
 
 # Ethics in Technology
 
-## Self Driving Car Ethics
+## Self Driving Car Ethics - article review
  The article talks about the self-driving car and raises a very important ethical question, which is that if there is a person inside a self-driving car traveling on a public road and suddenly a school full of students appears in front of it, what is the decision that the car will take in that case, will it drive itself side by side? Or will you let the bus crash into the trees and endanger the lives of many students? Who is more important for the car, the life of one person inside or the lives of many people outside??
 Here lies a great moral responsibility on the shoulders of the people who program these cars to make them take decisions that will lead to the least damage and human losses.
